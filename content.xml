@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260406180300QFHWVV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260406180300K4APES</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA 7: Clasicificación de los instrumentos musicales </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marta Sierra López</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>La SdA &quot;Explorando las familias de instrumentos musicales&quot; permite al alumnado conocer, identificar y clasificar los diferentes instrumentos musicales según sus familias: cuerda, viento, percusión y electrónica.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775489526027</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnncme3r-0fpxybjj3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendizaje diseñada para la materia de música (1º ESO)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Título. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncme3r-0fpxybjj3</odePageId>
+      <odeBlockId>block-1775479559736-126njwv64</odeBlockId>
+      <blockName>SdA 7: Clasificación de los instrumentos musicales.</blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncme3r-0fpxybjj3</odePageId>
+          <odeBlockId>block-1775479559736-126njwv64</odeBlockId>
+          <odeIdeviceId>idevice-1775479559729-ucog9bswg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA "Explorando las familias de instrumentos musicales" permite al alumnado conocer, identificar y clasificar los diferentes instrumentos musicales según sus familias: cuerda, viento, percusión y electrónica. Los estudiantes participarán en actividades dinámicas como juegos musicales, investigación en pareja, infografías interactivas y proyectos multimedia (podcast o vídeo), fomentando la creatividad, el trabajo colaborativo y el uso de herramientas digitales.</p>
+<ul>
+<li>Etapa educativa y nivel:</li>
+</ul>
+<p>Educación Secundaria Obligatoria (ESO) – 1.º curso<br /></p>
+<ul>
+<li> Materias principales:</li>
+</ul>
+<p>- Música<br />- Historia (para contextualizar las piezas musicales y sus épocas)<br /></p>
+<ul>
+<li>Materias que pueden estar implicadas:</li>
+</ul>
+<p>- Tecnología / TIC (para la creación de infografías y productos multimedia)<br />- Educación artística (para técnicas de interpretación y expresión musical)<br />- Lengua extranjera (inglés, si se utilizan pistas en juegos como la búsqueda del tesoro musical)</p>
+<ul>
+<li>Agrupamientos y organización espacial:</li>
+</ul>
+<p>- Trabajo individual: autoevaluación y cuestionarios.<br />- Trabajo en parejas: búsqueda de información sobre un instrumento musical.<br />- Trabajo en pequeños grupos: diseño de infografía interactiva y actividades gamificadas.<br /></p>
+<ul>
+<li>Temporalización:</li>
+</ul>
+<p>3 semanas, 6 sesiones de 55 minutos cada una. </p>
+<p>En la primera semana, se llevará a cabo la sesión de introducción, en la que el alumnado conocerá las familias de instrumentos musicales y realizará un breve cuestionario inicial para valorar sus conocimientos previos, trabajando en clase completa.</p>
+<p>Durante la segunda semana, se realizarán dos sesiones: la primera consistirá en la Búsqueda del tesoro musical, en la que los alumnos, organizados en grupos de 4 a 5 personas, deberán encontrar pistas relacionadas con los instrumentos de cuerda y viento; la segunda sesión será Música en pareja, donde cada pareja investigará un instrumento de cuerda o viento, elaborando un informe con su historia, características y artistas destacados.</p>
+<p>En la tercera semana, la cuarta sesión consistirá en Fantasía musical, con el visionado de fragmentos de la película de Walt Disney y un debate sobre los instrumentos que se identifican, trabajando con la clase completa. La quinta sesión se dedicará a la comprensión del temario, incluyendo prácticas de interpretación y una actividad interactiva en Kahoot, desarrollada de manera individual o en parejas.</p>
+<p>Finalmente, la sexta sesión se centrará en la prueba escrita y autoevaluación, donde los estudiantes demostrarán su conocimiento sobre las familias de instrumentos y la identificación auditiva de los mismos, trabajando de forma individual.</p>
+<ul>
+<li>Productos:</li>
+</ul>
+<p>- Infografía interactiva sobre las familias de instrumentos, sus características y ejemplos.<br />- Podcast o vídeo explicativo sobre un instrumento concreto, su historia, características y técnicas de interpretación.<br />- Cuestionarios y juegos (Kahoot, búsqueda del tesoro) como evidencia de participación y comprensión.<br />- Informe de investigación en pareja sobre un instrumento (origen, evolución, intérpretes famosos).<br />- Prueba escrita y autoevaluación final para medir los conocimientos adquiridos. <br /></p>
+<ul>
+<li>Herramientas tecnológicas:</li>
+</ul>
+<p>- PowerPoint – Presentaciones y explicaciones iniciales.<br />- Canva / Genially – Creación de infografías interactivas.<br />- Audacity / Anchor / iMovie / Clipchamp – Producción de podcast o vídeo.<br />- Kahoot – Actividad de gamificación y autoevaluación.<br />- Microsoft Teams / Google Classroom – Gestión de actividades y entrega de productos digitales.<br />- Ordenadores, proyector y reproductor de audio – Recursos de apoyo en clase.<br />- Recursos complementarios: YouTube, bancos de imágenes libres, fragmentos de películas musicales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775479559729-ucog9bswg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA \"Explorando las familias de instrumentos musicales\" permite al alumnado conocer, identificar y clasificar los diferentes instrumentos musicales según sus familias: cuerda, viento, percusión y electrónica. Los estudiantes participarán en actividades dinámicas como juegos musicales, investigación en pareja, infografías interactivas y proyectos multimedia (podcast o vídeo), fomentando la creatividad, el trabajo colaborativo y el uso de herramientas digitales.</p>\n<ul>\n<li>Etapa educativa y nivel:</li>\n</ul>\n<p>Educación Secundaria Obligatoria (ESO) – 1.º curso<br /></p>\n<ul>\n<li> Materias principales:</li>\n</ul>\n<p>- Música<br />- Historia (para contextualizar las piezas musicales y sus épocas)<br /></p>\n<ul>\n<li>Materias que pueden estar implicadas:</li>\n</ul>\n<p>- Tecnología / TIC (para la creación de infografías y productos multimedia)<br />- Educación artística (para técnicas de interpretación y expresión musical)<br />- Lengua extranjera (inglés, si se utilizan pistas en juegos como la búsqueda del tesoro musical)</p>\n<ul>\n<li>Agrupamientos y organización espacial:</li>\n</ul>\n<p>- Trabajo individual: autoevaluación y cuestionarios.<br />- Trabajo en parejas: búsqueda de información sobre un instrumento musical.<br />- Trabajo en pequeños grupos: diseño de infografía interactiva y actividades gamificadas.<br /></p>\n<ul>\n<li>Temporalización:</li>\n</ul>\n<p>3 semanas, 6 sesiones de 55 minutos cada una. </p>\n<p>En la primera semana, se llevará a cabo la sesión de introducción, en la que el alumnado conocerá las familias de instrumentos musicales y realizará un breve cuestionario inicial para valorar sus conocimientos previos, trabajando en clase completa.</p>\n<p>Durante la segunda semana, se realizarán dos sesiones: la primera consistirá en la Búsqueda del tesoro musical, en la que los alumnos, organizados en grupos de 4 a 5 personas, deberán encontrar pistas relacionadas con los instrumentos de cuerda y viento; la segunda sesión será Música en pareja, donde cada pareja investigará un instrumento de cuerda o viento, elaborando un informe con su historia, características y artistas destacados.</p>\n<p>En la tercera semana, la cuarta sesión consistirá en Fantasía musical, con el visionado de fragmentos de la película de Walt Disney y un debate sobre los instrumentos que se identifican, trabajando con la clase completa. La quinta sesión se dedicará a la comprensión del temario, incluyendo prácticas de interpretación y una actividad interactiva en Kahoot, desarrollada de manera individual o en parejas.</p>\n<p>Finalmente, la sexta sesión se centrará en la prueba escrita y autoevaluación, donde los estudiantes demostrarán su conocimiento sobre las familias de instrumentos y la identificación auditiva de los mismos, trabajando de forma individual.</p>\n<ul>\n<li>Productos:</li>\n</ul>\n<p>- Infografía interactiva sobre las familias de instrumentos, sus características y ejemplos.<br />- Podcast o vídeo explicativo sobre un instrumento concreto, su historia, características y técnicas de interpretación.<br />- Cuestionarios y juegos (Kahoot, búsqueda del tesoro) como evidencia de participación y comprensión.<br />- Informe de investigación en pareja sobre un instrumento (origen, evolución, intérpretes famosos).<br />- Prueba escrita y autoevaluación final para medir los conocimientos adquiridos. <br /></p>\n<ul>\n<li>Herramientas tecnológicas:</li>\n</ul>\n<p>- PowerPoint – Presentaciones y explicaciones iniciales.<br />- Canva / Genially – Creación de infografías interactivas.<br />- Audacity / Anchor / iMovie / Clipchamp – Producción de podcast o vídeo.<br />- Kahoot – Actividad de gamificación y autoevaluación.<br />- Microsoft Teams / Google Classroom – Gestión de actividades y entrega de productos digitales.<br />- Ordenadores, proyector y reproductor de audio – Recursos de apoyo en clase.<br />- Recursos complementarios: YouTube, bancos de imágenes libres, fragmentos de películas musicales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncme3t-3dvx6k8qb</odePageId>
+  <odeParentPageId>page-mnncme3r-0fpxybjj3</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncme3t-3dvx6k8qb</odePageId>
+      <odeBlockId>block-1775481244169-q7540dqvc</odeBlockId>
+      <blockName>intención educativa</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncme3t-3dvx6k8qb</odePageId>
+          <odeBlockId>block-1775481244169-q7540dqvc</odeBlockId>
+          <odeIdeviceId>idevice-1775481244167-2roqtvprd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Justificación del desarrollo de la SdA:</p>
+<ul>
+<li>Conocimiento integral de los instrumentos musicales: Los alumnos conocerán los instrumentos desde tres perspectivas: auditiva (reconocer el sonido de cada familia), visual (identificar su forma y características físicas) y práctica (tocar o experimentar con los instrumentos), promoviendo un aprendizaje significativo.<br /></li>
+<li>Participación activa: A través de juegos musicales, debates, actividades colaborativas y proyectos multimedia, se busca que los estudiantes se involucren activamente en el aprendizaje.<br /></li>
+<li>Respeto y cooperación: Al trabajar en grupos y parejas, los estudiantes aprenderán a valorar las contribuciones de sus compañeros, fomentando un clima de respeto hacia la diversidad musical y cultural.<br /></li>
+<li>Creatividad y expresión artística: La realización de infografías interactivas, podcasts o vídeos permitirá al alumnado expresar sus conocimientos de manera original, desarrollando habilidades artísticas y digitales.<br /></li>
+<li>Motivación y conexión con la realidad: Vincular los instrumentos musicales con su contexto histórico y cultural hace que los contenidos sean más relevantes y motivadores para los estudiantes.</li>
+</ul>
+<p>Impacto esperado: </p>
+<ul>
+<li>Desarrollo de un pensamiento musical crítico y reflexivo.<br /></li>
+<li>Comprensión de la diversidad de instrumentos y sus funciones en distintos contextos culturales e históricos.<br /></li>
+<li>Fomento de la creatividad y la capacidad de expresión a través de la producción de contenidos multimedia.<br /></li>
+<li>Fortalecimiento de las competencias digitales.<br /></li>
+<li>Mejora de la capacidad de trabajo en equipo, la comunicación efectiva y la autonomía en el aprendizaje mediante actividades colaborativas e investigación grupal.<br /></li>
+<li>Creación de un entorno inclusivo, donde cada alumno pueda participar activamente y de manera constructiva.</li>
+</ul>
+<p>Relación con los ODS:</p>
+<ul>
+<li>ODS 1 – Fin de la pobreza: Promueve igualdad de oportunidades en el aprendizaje, asegurando que todos los alumnos, independientemente de su contexto, tengan acceso a actividades educativas y culturales significativas.<br /></li>
+<li>ODS 2 – Hambre cero: Fomenta hábitos de colaboración y trabajo en equipo, contribuyendo indirectamente al desarrollo de habilidades que favorecen la cooperación y la solidaridad.<br /></li>
+<li>ODS 5 – Igualdad de género: Garantiza la participación equitativa de todos los estudiantes en las actividades, promoviendo el respeto y la igualdad en un entorno educativo inclusivo.<br /></li>
+<li>ODS 6 – Agua limpia y saneamiento: Aunque no se relaciona directamente con la música, se integra en el enfoque transversal del respeto por los recursos y la conciencia global, fomentando la educación integral.<br /></li>
+<li>ODS 8 – Trabajo decente y crecimiento económico: Desarrolla competencias y habilidades que preparan al alumnado para su futuro profesional, incluyendo creatividad, pensamiento crítico y competencias digitales.<br /></li>
+<li>ODS 10 – Reducción de las desigualdades: Mediante actividades inclusivas, adaptaciones para necesidades educativas especiales y metodologías activas, se reduce la desigualdad en el aprendizaje y se fomenta la participación de todos.</li>
+</ul>
+<p>Retos del siglo XXI:</p>
+<ul>
+<li>Competencias digitales: Los estudiantes aprenden a usar herramientas digitales (Canva, Genially, Audacity, Kahoot) para crear infografías, podcasts y vídeos, desarrollando habilidades tecnológicas esenciales.<br />Trabajo en equipo y colaboración: Las actividades grupales y en pareja refuerzan la cooperación, la comunicación y la responsabilidad compartida.<br /></li>
+<li>Creatividad e innovación: La creación de productos multimedia permite al alumnado desarrollar pensamiento creativo y capacidad de innovación en la presentación de sus conocimientos.<br /></li>
+<li>Pensamiento crítico: Al analizar, clasificar y relacionar instrumentos musicales con su contexto histórico, los estudiantes fortalecen la capacidad de reflexión, análisis y toma de decisiones fundamentadas.<br /></li>
+<li>Alfabetización cultural y artística: La SdA contribuye a que los alumnos comprendan, valoren y participen activamente en la cultura musical y artística de manera global y diversa.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775481244167-2roqtvprd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Justificación del desarrollo de la SdA:</p>\n<ul>\n<li>Conocimiento integral de los instrumentos musicales: Los alumnos conocerán los instrumentos desde tres perspectivas: auditiva (reconocer el sonido de cada familia), visual (identificar su forma y características físicas) y práctica (tocar o experimentar con los instrumentos), promoviendo un aprendizaje significativo.<br /></li>\n<li>Participación activa: A través de juegos musicales, debates, actividades colaborativas y proyectos multimedia, se busca que los estudiantes se involucren activamente en el aprendizaje.<br /></li>\n<li>Respeto y cooperación: Al trabajar en grupos y parejas, los estudiantes aprenderán a valorar las contribuciones de sus compañeros, fomentando un clima de respeto hacia la diversidad musical y cultural.<br /></li>\n<li>Creatividad y expresión artística: La realización de infografías interactivas, podcasts o vídeos permitirá al alumnado expresar sus conocimientos de manera original, desarrollando habilidades artísticas y digitales.<br /></li>\n<li>Motivación y conexión con la realidad: Vincular los instrumentos musicales con su contexto histórico y cultural hace que los contenidos sean más relevantes y motivadores para los estudiantes.</li>\n</ul>\n<p>Impacto esperado: </p>\n<ul>\n<li>Desarrollo de un pensamiento musical crítico y reflexivo.<br /></li>\n<li>Comprensión de la diversidad de instrumentos y sus funciones en distintos contextos culturales e históricos.<br /></li>\n<li>Fomento de la creatividad y la capacidad de expresión a través de la producción de contenidos multimedia.<br /></li>\n<li>Fortalecimiento de las competencias digitales.<br /></li>\n<li>Mejora de la capacidad de trabajo en equipo, la comunicación efectiva y la autonomía en el aprendizaje mediante actividades colaborativas e investigación grupal.<br /></li>\n<li>Creación de un entorno inclusivo, donde cada alumno pueda participar activamente y de manera constructiva.</li>\n</ul>\n<p>Relación con los ODS:</p>\n<ul>\n<li>ODS 1 – Fin de la pobreza: Promueve igualdad de oportunidades en el aprendizaje, asegurando que todos los alumnos, independientemente de su contexto, tengan acceso a actividades educativas y culturales significativas.<br /></li>\n<li>ODS 2 – Hambre cero: Fomenta hábitos de colaboración y trabajo en equipo, contribuyendo indirectamente al desarrollo de habilidades que favorecen la cooperación y la solidaridad.<br /></li>\n<li>ODS 5 – Igualdad de género: Garantiza la participación equitativa de todos los estudiantes en las actividades, promoviendo el respeto y la igualdad en un entorno educativo inclusivo.<br /></li>\n<li>ODS 6 – Agua limpia y saneamiento: Aunque no se relaciona directamente con la música, se integra en el enfoque transversal del respeto por los recursos y la conciencia global, fomentando la educación integral.<br /></li>\n<li>ODS 8 – Trabajo decente y crecimiento económico: Desarrolla competencias y habilidades que preparan al alumnado para su futuro profesional, incluyendo creatividad, pensamiento crítico y competencias digitales.<br /></li>\n<li>ODS 10 – Reducción de las desigualdades: Mediante actividades inclusivas, adaptaciones para necesidades educativas especiales y metodologías activas, se reduce la desigualdad en el aprendizaje y se fomenta la participación de todos.</li>\n</ul>\n<p>Retos del siglo XXI:</p>\n<ul>\n<li>Competencias digitales: Los estudiantes aprenden a usar herramientas digitales (Canva, Genially, Audacity, Kahoot) para crear infografías, podcasts y vídeos, desarrollando habilidades tecnológicas esenciales.<br />Trabajo en equipo y colaboración: Las actividades grupales y en pareja refuerzan la cooperación, la comunicación y la responsabilidad compartida.<br /></li>\n<li>Creatividad e innovación: La creación de productos multimedia permite al alumnado desarrollar pensamiento creativo y capacidad de innovación en la presentación de sus conocimientos.<br /></li>\n<li>Pensamiento crítico: Al analizar, clasificar y relacionar instrumentos musicales con su contexto histórico, los estudiantes fortalecen la capacidad de reflexión, análisis y toma de decisiones fundamentadas.<br /></li>\n<li>Alfabetización cultural y artística: La SdA contribuye a que los alumnos comprendan, valoren y participen activamente en la cultura musical y artística de manera global y diversa.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncme3u-u1oea3ffe</odePageId>
+  <odeParentPageId>page-mnncme3r-0fpxybjj3</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncme3u-u1oea3ffe</odePageId>
+      <odeBlockId>block-1775481301273-d7zp2fxb4</odeBlockId>
+      <blockName>elementos curriculares</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncme3u-u1oea3ffe</odePageId>
+          <odeBlockId>block-1775481301273-d7zp2fxb4</odeBlockId>
+          <odeIdeviceId>idevice-1775481301272-zeicip86x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Competencias clave: </p>
+<ul>
+<li>Competencia en Comunicación Lingüística (CCL):<br />La música es un lenguaje universal que favorece la comunicación efectiva. Los estudiantes desarrollan expresión oral mediante exposiciones y aprenden lenguaje musical, facilitando la interacción intercultural.<br /></li>
+<li>Competencia Plurilingüe (CP):<br />Se promueve a través de la interpretación de canciones y repertorio en distintos idiomas, así como actividades como ritmo corporal y juegos musicales que fortalecen el aprendizaje de lenguas extranjeras, especialmente inglés.<br /></li>
+<li>Competencia Matemática y STEM:<br />La música integra conceptos matemáticos como proporciones, compases, escalas, intervalos y acordes, fomentando el razonamiento lógico y analítico.<br /></li>
+<li>Competencia Digital (CD):<br />Se utiliza tecnología para la creación, edición y presentación de trabajos musicales, mediante herramientas como Canva, PowerPoint o software de producción musical, fomentando un uso responsable de las TIC.<br /></li>
+<li>Competencia Personal, Social y de Aprender a Aprender (CPSAA):<br />La música potencia la autogestión, la colaboración, la coordinación, la superación personal y la gestión emocional, a través de actividades individuales y grupales como percusión corporal, proyectos colaborativos y autoevaluación.<br /></li>
+<li>Competencia Ciudadana (CC):<br />Se fomenta la tolerancia, el respeto a la diversidad cultural y la participación responsable, mediante la exploración de distintos estilos musicales, debates y actividades que promueven la apreciación de otras formas de expresión.<br /></li>
+<li>Competencia Emprendedora (CE):<br />Los proyectos musicales permiten desarrollar habilidades de planificación, gestión, trabajo en equipo y adaptación ante la incertidumbre, así como la participación en eventos y actividades extraescolares.<br /></li>
+<li>Competencia en Conciencia y Expresión Culturales (CCEC):<br />Se refuerza el respeto y comprensión de diversas manifestaciones culturales mediante el estudio de géneros, estilos y obras musicales, promoviendo la creatividad y la expresión personal a través de la música.</li>
+</ul>
+<p>Competencias específicas: </p>
+<ul>
+<li>Competencia específica 1: Analizar obras de diferentes épocas y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal. Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CCL2, CCL3, CP3, CD1, CD2, CPSAA3, CC1, CCEC1, CCEC2.</li>
+<li>Competencia específica 2: Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de improvisación, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las técnicas más adecuadas a la intención expresiva. Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CCL1, CD2, CPSAA1, CPSAA3, CC1, CE3, CCEC3.<br /></li>
+<li>Competencia específica 4: Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional. Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CCL1, STEM3, CD2, CPSAA3, CC1, CE1, CE3, CCEC3, CCEC4.</li>
+</ul>
+<p>Criterios de evaluación:</p>
+<ul>
+<li>Criterio de evaluación 1.2 Explicar, con actitud abierta y respetuosa, las funciones desempeñadas por determinadas producciones musicales y dancísticas, relacionándolas con las principales características de su contexto histórico, social y cultural.<br /></li>
+<li>Criterio de evaluación 2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de técnicas y dancísticas de mayor complejidad, por medio de improvisaciones libres y pautadas, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas.</li>
+<li>Criterio de evaluación 4.1 Planificar y desarrollar, con creatividad, propuestas artístico-musicales, tanto individuales como colaborativas, empleando medios musicales y dancísticos, así como herramientas analógicas y digitales.</li>
+</ul>
+<p>Saberes básicos: </p>
+<ul>
+<li>Voces e instrumentos: clasificación general de los instrumentos por familias, características y agrupaciones.<br /></li>
+<li>Conciertos, actuaciones musicales y otras manifestaciones artístico-musicales en vivo o registradas.<br /></li>
+<li>Normas de comportamiento y participación en actividades musicales.<br /></li>
+<li>Técnicas básicas para la interpretación: vocales, instrumentales y corporales, así como técnicas de estudio y control emocional.<br /></li>
+<li>Proyectos musicales y audiovisuales: uso de la voz, el cuerpo, los instrumentos y herramientas tecnológicas.<br /></li>
+<li>Sonido y música en medios audiovisuales y tecnologías digitales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775481301272-zeicip86x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Competencias clave: </p>\n<ul>\n<li>Competencia en Comunicación Lingüística (CCL):<br />La música es un lenguaje universal que favorece la comunicación efectiva. Los estudiantes desarrollan expresión oral mediante exposiciones y aprenden lenguaje musical, facilitando la interacción intercultural.<br /></li>\n<li>Competencia Plurilingüe (CP):<br />Se promueve a través de la interpretación de canciones y repertorio en distintos idiomas, así como actividades como ritmo corporal y juegos musicales que fortalecen el aprendizaje de lenguas extranjeras, especialmente inglés.<br /></li>\n<li>Competencia Matemática y STEM:<br />La música integra conceptos matemáticos como proporciones, compases, escalas, intervalos y acordes, fomentando el razonamiento lógico y analítico.<br /></li>\n<li>Competencia Digital (CD):<br />Se utiliza tecnología para la creación, edición y presentación de trabajos musicales, mediante herramientas como Canva, PowerPoint o software de producción musical, fomentando un uso responsable de las TIC.<br /></li>\n<li>Competencia Personal, Social y de Aprender a Aprender (CPSAA):<br />La música potencia la autogestión, la colaboración, la coordinación, la superación personal y la gestión emocional, a través de actividades individuales y grupales como percusión corporal, proyectos colaborativos y autoevaluación.<br /></li>\n<li>Competencia Ciudadana (CC):<br />Se fomenta la tolerancia, el respeto a la diversidad cultural y la participación responsable, mediante la exploración de distintos estilos musicales, debates y actividades que promueven la apreciación de otras formas de expresión.<br /></li>\n<li>Competencia Emprendedora (CE):<br />Los proyectos musicales permiten desarrollar habilidades de planificación, gestión, trabajo en equipo y adaptación ante la incertidumbre, así como la participación en eventos y actividades extraescolares.<br /></li>\n<li>Competencia en Conciencia y Expresión Culturales (CCEC):<br />Se refuerza el respeto y comprensión de diversas manifestaciones culturales mediante el estudio de géneros, estilos y obras musicales, promoviendo la creatividad y la expresión personal a través de la música.</li>\n</ul>\n<p>Competencias específicas: </p>\n<ul>\n<li>Competencia específica 1: Analizar obras de diferentes épocas y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal. Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CCL2, CCL3, CP3, CD1, CD2, CPSAA3, CC1, CCEC1, CCEC2.</li>\n<li>Competencia específica 2: Explorar las posibilidades expresivas de diferentes técnicas musicales y dancísticas, a través de actividades de improvisación, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las técnicas más adecuadas a la intención expresiva. Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CCL1, CD2, CPSAA1, CPSAA3, CC1, CE3, CCEC3.<br /></li>\n<li>Competencia específica 4: Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional. Esta competencia específica se conecta con los siguientes descriptores del perfil de salida: CCL1, STEM3, CD2, CPSAA3, CC1, CE1, CE3, CCEC3, CCEC4.</li>\n</ul>\n<p>Criterios de evaluación:</p>\n<ul>\n<li>Criterio de evaluación 1.2 Explicar, con actitud abierta y respetuosa, las funciones desempeñadas por determinadas producciones musicales y dancísticas, relacionándolas con las principales características de su contexto histórico, social y cultural.<br /></li>\n<li>Criterio de evaluación 2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de técnicas y dancísticas de mayor complejidad, por medio de improvisaciones libres y pautadas, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas.</li>\n<li>Criterio de evaluación 4.1 Planificar y desarrollar, con creatividad, propuestas artístico-musicales, tanto individuales como colaborativas, empleando medios musicales y dancísticos, así como herramientas analógicas y digitales.</li>\n</ul>\n<p>Saberes básicos: </p>\n<ul>\n<li>Voces e instrumentos: clasificación general de los instrumentos por familias, características y agrupaciones.<br /></li>\n<li>Conciertos, actuaciones musicales y otras manifestaciones artístico-musicales en vivo o registradas.<br /></li>\n<li>Normas de comportamiento y participación en actividades musicales.<br /></li>\n<li>Técnicas básicas para la interpretación: vocales, instrumentales y corporales, así como técnicas de estudio y control emocional.<br /></li>\n<li>Proyectos musicales y audiovisuales: uso de la voz, el cuerpo, los instrumentos y herramientas tecnológicas.<br /></li>\n<li>Sonido y música en medios audiovisuales y tecnologías digitales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncme3u-nqto779v5</odePageId>
+  <odeParentPageId>page-mnncme3r-0fpxybjj3</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncme3u-nqto779v5</odePageId>
+      <odeBlockId>block-1775481366278-asqtyx36l</odeBlockId>
+      <blockName>metodologías</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncme3u-nqto779v5</odePageId>
+          <odeBlockId>block-1775481366278-asqtyx36l</odeBlockId>
+          <odeIdeviceId>idevice-1775481366276-446k0z19i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para alcanzar la motivación en los estudiantes esta situación de aprendizaje se basará<br />en las siguientes metodologías generales que se aplican de manera amplia y transversal en la<br />enseñanza de Música. Son aplicables a diferentes contenidos y actividades dentro de la<br />programación y están diseñadas para fomentar un aprendizaje activo, participativo y<br />significativo.</p>
+<ul>
+<li>Aprendizaje basado en proyectos (ABP) : Este tipo de aprendizaje implica que los estudiantes trabajen tanto en equipo como de forma individual en proyectos musicales. En esta programación se involucran actividades como la interpretación, la composición y la investigación sobe periodos y estilos musicales. Los alumnos con este enfoque tendrán que aplicar los conocimientos teóricos adquiridos en contextos prácticos y teóricos, promoviendo un aprendizaje significativo. El Aprendizaje Basado en Proyectos es una metodología que permite a los estudiantes adquirir conocimientos y habilidades mediante la elaboración de proyectos que respondan a problemas de la vida real.</li>
+<li>Gamificación: La gamificación en el aula se ha mostrado efectiva para aumentar la motivación y el compromiso de los estudiantes, promoviendo un ambiente de aprendizaje dinámico. Este enfoque es más innovador que el anterior, consiste en utilizar juegos, pueden ser en plataformas digitales. Un ejemplo puede ser un desafío, esto motivará a los estudiantes a participar creando un ambiente más divertido y competitivo. Se utilizarán juegos que refuercen conceptos y habilidades musicales de manera lúdica, se pueden incorporar puntos, niveles, insignias o desafíos para incentivar el esfuerzo continuo.</li>
+<li>Aprendizaje colaborativo: El aprendizaje colaborativo, como su nombre indica, fomenta el trabajo en equipo, la cooperación y comunicación entre estudiantes. Ayuda a desarrollar habilidades tanto cognitivas como sociales, por lo tanto, mejora el rendimiento académico y las habilidades sociales de los estudiantes, favoreciendo un ambiente de aprendizaje más inclusivo y participativo. Para las actividades colaborativas de esta programación, los estudiantes trabajarán de manera conjunta en la creación y organización de presentaciones grupales. Esta estrategia ayuda en el desarrollo de habilidades y la resolución de problemas a través del trabajo en equipo.</li>
+<li>Lección magistral participativa: Esta metodología combina la lección de una clase magistral tradicional con la participación activa de los estudiantes. Con este enfoque se logra que los estudiantes se involucren más en la materia, creando un ambiente dinámico y colaborativo, pero manteniendo siempre la autoridad del docente. Esta metodología cosiste en exponer de un tema, por parte del docente, donde se produce una interacción entre alumnos y profesor, como por ejemplo en debates, preguntas directas o actividades para la participación de toda la clase. Se busca una mejor comprensión por parte del alumnado con una implicación más activa.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775481366276-446k0z19i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para alcanzar la motivación en los estudiantes esta situación de aprendizaje se basará<br />en las siguientes metodologías generales que se aplican de manera amplia y transversal en la<br />enseñanza de Música. Son aplicables a diferentes contenidos y actividades dentro de la<br />programación y están diseñadas para fomentar un aprendizaje activo, participativo y<br />significativo.</p>\n<ul>\n<li>Aprendizaje basado en proyectos (ABP) : Este tipo de aprendizaje implica que los estudiantes trabajen tanto en equipo como de forma individual en proyectos musicales. En esta programación se involucran actividades como la interpretación, la composición y la investigación sobe periodos y estilos musicales. Los alumnos con este enfoque tendrán que aplicar los conocimientos teóricos adquiridos en contextos prácticos y teóricos, promoviendo un aprendizaje significativo. El Aprendizaje Basado en Proyectos es una metodología que permite a los estudiantes adquirir conocimientos y habilidades mediante la elaboración de proyectos que respondan a problemas de la vida real.</li>\n<li>Gamificación: La gamificación en el aula se ha mostrado efectiva para aumentar la motivación y el compromiso de los estudiantes, promoviendo un ambiente de aprendizaje dinámico. Este enfoque es más innovador que el anterior, consiste en utilizar juegos, pueden ser en plataformas digitales. Un ejemplo puede ser un desafío, esto motivará a los estudiantes a participar creando un ambiente más divertido y competitivo. Se utilizarán juegos que refuercen conceptos y habilidades musicales de manera lúdica, se pueden incorporar puntos, niveles, insignias o desafíos para incentivar el esfuerzo continuo.</li>\n<li>Aprendizaje colaborativo: El aprendizaje colaborativo, como su nombre indica, fomenta el trabajo en equipo, la cooperación y comunicación entre estudiantes. Ayuda a desarrollar habilidades tanto cognitivas como sociales, por lo tanto, mejora el rendimiento académico y las habilidades sociales de los estudiantes, favoreciendo un ambiente de aprendizaje más inclusivo y participativo. Para las actividades colaborativas de esta programación, los estudiantes trabajarán de manera conjunta en la creación y organización de presentaciones grupales. Esta estrategia ayuda en el desarrollo de habilidades y la resolución de problemas a través del trabajo en equipo.</li>\n<li>Lección magistral participativa: Esta metodología combina la lección de una clase magistral tradicional con la participación activa de los estudiantes. Con este enfoque se logra que los estudiantes se involucren más en la materia, creando un ambiente dinámico y colaborativo, pero manteniendo siempre la autoridad del docente. Esta metodología cosiste en exponer de un tema, por parte del docente, donde se produce una interacción entre alumnos y profesor, como por ejemplo en debates, preguntas directas o actividades para la participación de toda la clase. Se busca una mejor comprensión por parte del alumnado con una implicación más activa.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncme3v-i0yu7nc1x</odePageId>
+  <odeParentPageId>page-mnncme3r-0fpxybjj3</odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncme3v-i0yu7nc1x</odePageId>
+      <odeBlockId>block-1775481394802-ncn473m7e</odeBlockId>
+      <blockName>proyectos y programas del centro</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncme3v-i0yu7nc1x</odePageId>
+          <odeBlockId>block-1775481394802-ncn473m7e</odeBlockId>
+          <odeIdeviceId>idevice-1775481394799-38yyaeu8c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>PLEI: Integración TIC<br />El alumnado utiliza tecnologías digitales para crear, editar y presentar trabajos musicales, desarrollando la competencia digital y un aprendizaje interactivo.</li>
+<li>PDC: Competencia cultural y artística<br />La música potencia la apreciación cultural y artística mediante el estudio de estilos, géneros y repertorio de distintas épocas y culturas, fomentando la creatividad y la expresión personal.</li>
+<li>PAD: Proyectos de aula colaborativos<br />Se realizan proyectos musicales en equipo, como composiciones, ensambles y producciones audiovisuales, fortaleciendo la cooperación, la organización y la responsabilidad compartida.</li>
+<li>Programa Bilingüe<br />Se promueve la interpretación de canciones y repertorio en otras lenguas, favoreciendo la comprensión intercultural y la comunicación efectiva en contextos musicales.</li>
+<li>Proyectos de Convivencia<br />Las actividades musicales grupales y las experiencias compartidas fomentan la colaboración, la tolerancia y la cohesión del alumnado, reforzando valores de respeto y convivencia positiva dentro y fuera del aula.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775481394799-38yyaeu8c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>PLEI: Integración TIC<br />El alumnado utiliza tecnologías digitales para crear, editar y presentar trabajos musicales, desarrollando la competencia digital y un aprendizaje interactivo.</li>\n<li>PDC: Competencia cultural y artística<br />La música potencia la apreciación cultural y artística mediante el estudio de estilos, géneros y repertorio de distintas épocas y culturas, fomentando la creatividad y la expresión personal.</li>\n<li>PAD: Proyectos de aula colaborativos<br />Se realizan proyectos musicales en equipo, como composiciones, ensambles y producciones audiovisuales, fortaleciendo la cooperación, la organización y la responsabilidad compartida.</li>\n<li>Programa Bilingüe<br />Se promueve la interpretación de canciones y repertorio en otras lenguas, favoreciendo la comprensión intercultural y la comunicación efectiva en contextos musicales.</li>\n<li>Proyectos de Convivencia<br />Las actividades musicales grupales y las experiencias compartidas fomentan la colaboración, la tolerancia y la cohesión del alumnado, reforzando valores de respeto y convivencia positiva dentro y fuera del aula.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncme3v-422bjpd5f</odePageId>
+  <odeParentPageId>page-mnncme3r-0fpxybjj3</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncme3v-422bjpd5f</odePageId>
+      <odeBlockId>block-1775481415523-bcvrai0ni</odeBlockId>
+      <blockName>actividades</blockName>
+      <iconName>suitcase</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncme3v-422bjpd5f</odePageId>
+          <odeBlockId>block-1775481415523-bcvrai0ni</odeBlockId>
+          <odeIdeviceId>idevice-1775481415522-5qgpdozm4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Visionado de películas musicales<br />Se propone el análisis y disfrute de películas como Fantasia de Walt Disney, que permiten al alumnado identificar distintos instrumentos, explorar estilos musicales y relacionar la música con elementos narrativos y visuales.</li>
+<li>Talleres de instrumentos en el aula<br />Actividades prácticas donde los estudiantes experimentan con distintos instrumentos, desarrollando habilidades de interpretación, coordinación y trabajo colaborativo, así como el conocimiento de las familias instrumentales.</li>
+<li>Visitas virtuales a conciertos y museos musicales<br />Se realizan excursiones virtuales para explorar repertorios, conocer instrumentos y compositores, y acercar al alumnado a experiencias culturales y artísticas que complementan la formación musical y fomentan la apreciación cultural.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775481415522-5qgpdozm4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Visionado de películas musicales<br />Se propone el análisis y disfrute de películas como Fantasia de Walt Disney, que permiten al alumnado identificar distintos instrumentos, explorar estilos musicales y relacionar la música con elementos narrativos y visuales.</li>\n<li>Talleres de instrumentos en el aula<br />Actividades prácticas donde los estudiantes experimentan con distintos instrumentos, desarrollando habilidades de interpretación, coordinación y trabajo colaborativo, así como el conocimiento de las familias instrumentales.</li>\n<li>Visitas virtuales a conciertos y museos musicales<br />Se realizan excursiones virtuales para explorar repertorios, conocer instrumentos y compositores, y acercar al alumnado a experiencias culturales y artísticas que complementan la formación musical y fomentan la apreciación cultural.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncme3w-4nhgkdkex</odePageId>
+  <odeParentPageId>page-mnncme3r-0fpxybjj3</odeParentPageId>
+  <pageName>Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncme3w-4nhgkdkex</odePageId>
+      <odeBlockId>block-1775486877980-6q9jo2yjz</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncme3w-4nhgkdkex</odePageId>
+          <odeBlockId>block-1775486877980-6q9jo2yjz</odeBlockId>
+          <odeIdeviceId>idevice-1775486877976-a0q5w192m</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Información general sobre este recurso educativo</span></span></caption>
+<tbody>
+<tr>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Título</span></span></th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA 7: Clasicicación de los instrumentos musicales&nbsp;</span></td>
+</tr>
+<tr>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Descripción</span></span></th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Autoría</span></span></th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia</span></span></th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Este contenido fue creado con </span></span><a href="https://exelearning.net/"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">eXeLearning</span></span></a><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> , el editor libre y de fuente abierta diseñado para crear recursos educativos.</span></span></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
